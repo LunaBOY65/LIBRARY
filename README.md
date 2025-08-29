@@ -19,5 +19,6 @@ Thai resource focused on Python programming exercises aimed at beginners.
 
 ### Other
 * [Data Mining. Concepts and Techniques](https://github.com/C-Ph/LIBRARY/blob/c1ab83383dc8a0ca60a4e7b1d3916ef8e16c5225/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
+* [Django for Beginners, 5th Edition Build Modern Web Applications with Python](https://github.com/LunaBOY65/LIBRARY/blob/7b78a32c1ac167a2fdcc3afdf8455cc2b3094b2d/Django%20for%20Beginners%2C%205th%20Edition%20Build%20Modern%20Web%20Applications%20with%20Python.pdf)
 
 
